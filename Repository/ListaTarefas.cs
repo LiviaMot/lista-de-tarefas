@@ -16,17 +16,8 @@ public class RepositoryListaTarefas {
     ) {
     if (tarefas[idAlterar] == null) return;
     tarefas[idAlterar].NomeTarefa = nomeTarefa;
-
-    try {
-      tarefas[idAlterar].AgendadaPara = DateTime.ParseExact(
-        $"{persoData}/{DateTime.Now.Year} {persoHora}",
-        "dd/MM/yyyy HH:mm",
-        null
-      );
-    }
-    catch {
-      Console.WriteLine("Data ou hora inválida. A tarefa foi atualizada apenas no nome.");
-    }
+    tarefas[idAlterar].PersoData = persoData;
+    tarefas[idAlterar].PersoHora = persoHora;
   }
   public static void ModificarStatus(int index, bool concluido) {
     if (tarefas[index] != null) {

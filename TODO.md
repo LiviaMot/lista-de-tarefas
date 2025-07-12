@@ -8,12 +8,9 @@ lista para trabalhos/ estudos
  - hora : minuto
 - Não Concluído: sempre que criada marcar com ele
 
-Se ela
-
 // STATUS
 - marcar o status da tarefa:
 método para modificar a tarefa para Não Concluída/ Concluída
-- if
 - boolean
   - true = Concluída
   - false = Não Concluída
@@ -23,5 +20,5 @@ Informar como escolher o status
 [x] Listar
 [x] Adicionar
 [x] Deletar
-[] Alterar
-[] Status
+[x] Alterar
+[x] Status

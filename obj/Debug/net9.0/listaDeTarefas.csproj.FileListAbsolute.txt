@@ -26,3 +26,4 @@ C:/Users/livia.tavares1/OneDrive - SENAC-SC/Documentos/listaDeTarefas/obj/Debug/
 /home/nina/Documentos/Documentos - FAculdade/Avaliação/Csharp/listaDeTarefas/bin/Debug/net9.0/listaDeTarefas.pdb
 /home/nina/Documentos/Documentos - FAculdade/Avaliação/Csharp/listaDeTarefas/obj/Debug/net9.0/listaDeTarefas.genruntimeconfig.cache
 /home/nina/Documentos/Documentos - FAculdade/Avaliação/Csharp/listaDeTarefas/obj/Debug/net9.0/ref/listaDeTarefas.dll
+/home/nina/Documentos/Documentos - FAculdade/Avaliação/Csharp/listaDeTarefas/obj/Debug/net9.0/listaDeTarefas.sourcelink.json
